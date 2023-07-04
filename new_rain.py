@@ -3,7 +3,7 @@ import os
 import requests
 
 onecall_endpoint = "https://api.openweathermap.org/data/2.5/onecall"
-my_api_key = "fc5b526181f341578f988874e63a0db5"
+my_api_key = "your Api key"
 
 my_email = os.environ.get('MY_EMAIL')
 my_pass = os.environ.get('MY_PASS')
